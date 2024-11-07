@@ -52,6 +52,6 @@
 
 ## 📫 Let's Connect!
 
-[(https://img.shields.io/badge/GitHub-shivanshs673-%2312100E?style=for-the-badge&logo=github)](https://github.com/shivanshs673)
-[(https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivansh-shukla-2a9552257)
-[(https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shivanshs673)
+[![GITHUB](https://img.shields.io/badge/GitHub-shivanshs673-%2312100E?style=for-the-badge&logo=github)](https://github.com/shivanshs673)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivansh-shukla-2a9552257)
+[![LEETCODE](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shivanshs673)
