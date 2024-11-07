@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Back--end%20Developer-%23007ACC?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android%20Developer-%23E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-%23FFD700?style=for-the-badge" />
 </p>
 
 <p align="center">Welcome to my GitHub profile! I'm a passionate developer focused on back-end development, Android projects, and emerging technologies.</p>
@@ -12,8 +11,8 @@
 
 <h2>🛠 Skills & Tools</h2>
 <ul>
-  <li><strong>Programming Languages:</strong> Kotlin, C++, Python</li>
-  <li><strong>Frameworks & Libraries:</strong> Android Development (Jetpack Compose), Machine Learning Algorithms (KNN, RF, LR)</li>
+  <li><strong>Programming Languages:</strong> Kotlin, C++</li>
+  <li><strong>Frameworks & Libraries:</strong> Android Development (Jetpack Compose)</li>
   <li><strong>Tools & Technologies:</strong> Git, Jetpack Compose, Android Studio</li>
 </ul>
 
@@ -37,15 +36,15 @@
 
 ---
 
-<h2>🎸 Hobbies</h2>
+<h2>🧩 Hobbies</h2>
 <p>
-  <em>Guitar 🎶:</em> Love to unwind with some music and improve my guitar skills.
+  <em>Problem Solver 🧠:</em> I enjoy tackling complex challenges and finding innovative solutions, whether it's in development or daily life.
 </p>
 
 ---
 
 <h2>🌱 Currently Learning</h2>
-<p>Diving deeper into <strong>Machine Learning</strong> and <strong>Advanced Android Development</strong> to broaden my skill set and contribute more efficiently to projects.</p>
+<p>Diving deeper into <strong>Advanced Android Development</strong> to broaden my skill set and contribute more efficiently to projects.</p>
 
 ---
 
