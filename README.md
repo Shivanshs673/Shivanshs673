@@ -52,4 +52,5 @@
 <p>
   <a href="https://github.com/shivanshs673"><img src="https://img.shields.io/badge/GitHub-shivanshs673-%2312100E?style=for-the-badge&logo=github" alt="GitHub"></a>
   <a href="https://www.linkedin.com/in/shivansh-shukla-2a9552257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/Shivanshs673/"><img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"></a>
 </p>
