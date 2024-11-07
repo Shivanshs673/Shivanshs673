@@ -48,16 +48,8 @@
 
 ---
 
-<h2>📫 Let's Connect!</h2>
+## 📫 Let's Connect!
 
-<p align="center">
-  <a href="https://github.com/shivanshs673" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-shivanshs673-%2312100E?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/shivansh-shukla-2a9552257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://leetcode.com/u/Shivanshs673" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-shivanshs673-%2312100E?style=for-the-badge&logo=github)](https://github.com/shivanshs673)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivansh-shukla-2a9552257)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Shivanshs673)
