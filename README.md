@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Shivansh</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Back--end%20Developer-%23007ACC?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/Problem%20Solver-%2300C853?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android%20Developer-%23E34F26?style=for-the-badge" />
 </p>
 
@@ -51,5 +51,5 @@
 <h2>📫 Let's Connect!</h2>
 <p>
   <a href="https://github.com/shivanshs673"><img src="https://img.shields.io/badge/GitHub-shivanshs673-%2312100E?style=for-the-badge&logo=github" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/shivansh-shukla-2a9552257/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
