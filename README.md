@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Android%20Developer-%23E34F26?style=for-the-badge" />
 </p>
 
-<p align="center">Welcome to my GitHub profile! I'm a passionate developer focused on back-end development, Android projects, and emerging technologies.</p>
+<p align="center">Welcome to my GitHub profile! I'm a passionate developer focused on Android projects, Problem Solving and emerging technologies.</p>
 
 ---
 
