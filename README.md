@@ -18,17 +18,6 @@
 
 ---
 
-<h2>🚀 Projects</h2>
-
-<table>
-  <tr>
-    <td><strong><a href="https://github.com/shivanshs673/WOOF">WOOF</a></strong></td>
-    <td>My current Android project built with Jetpack Compose and Kotlin, exploring innovative solutions in app development.</td>
-  </tr>
-</table>
-
----
-
 <h2>🎓 Involvement & Experience</h2>
 <p>
   <strong>Mozilla Club - Joint Secretary:</strong> Proud to be an active member and Joint Secretary at my university's Mozilla Club, collaborating on open-source projects and fostering a community of tech enthusiasts.
