@@ -13,7 +13,7 @@
 <ul>
   <li><strong>Programming Languages:</strong> Kotlin, C++</li>
   <li><strong>Frameworks & Libraries:</strong> Android Development (Jetpack Compose)</li>
-  <li><strong>Tools & Technologies:</strong> Git, Jetpack Compose, Android Studio</li>
+  <li><strong>Tools & Technologies:</strong> Git, GitHub, Jetpack Compose, Android Studio</li>
 </ul>
 
 ---
